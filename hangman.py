@@ -1,6 +1,8 @@
 import copy
 import random
 
+#Trying the commit
+
 debuging = False
 words_list=["happy", "best", "cute", "lovely", "post"]
 tries = 10
